@@ -45,3 +45,5 @@ Evaluate model performance using the testing set.
 Management Dashboard
 Provides: A user-friendly interface for monitoring and managing IT operations and network performance.
 This README file provides an overview of the system architecture, the components involved, and the process for predictive modeling and data preprocessing.
+![image](https://github.com/user-attachments/assets/b07dc863-d823-4258-97ba-e1a2386d68f5)
+
